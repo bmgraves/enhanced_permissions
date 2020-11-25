@@ -1,0 +1,8 @@
+{
+  "name": "Enhanced Permissions",
+  "title": "Enhanced Permissions",
+  "description": "This module is intended to allow for a wider range of permissions to allow for larger scale games.",
+  "author": "GravyBoat",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.7.5"
+}
